@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación Overhaul - Incubadora Kikes",
+  "description": "Sistema de evaluación e inspección de mantenimiento overhaul en galpones y granjas (Zucami, Salmet, Granjas Piso, El Roble).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
